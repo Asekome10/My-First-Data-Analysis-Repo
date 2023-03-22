@@ -15,10 +15,10 @@ The dataset was sourced from the NYC taxi dataset. Since the dataset is too larg
 
 -----
 # Data Exploration: 
- Imported the needed libraries 
- Read in the Green taxi trip records dataset and converted it to a pandas dataframe
- Checked the shape of the dataset, the data types of the columns, and if there are any missing values.
- Moved on to some basic descriptive statistics of the numerical columns using the describe() function.
+ Imported the needed libraries,  
+ read in the Green taxi trip records dataset and converted it to a pandas dataframe, 
+ checked the shape of the dataset, the data types of the columns, and if there are any missing values, 
+ moved on to some basic descriptive statistics of the numerical columns using the describe() function.
 
 
 ----
